@@ -1,0 +1,14 @@
+{
+  "name": "s",
+  "version": "1.0.0",
+  "description": "projeto casa nova",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Ariana Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.2.0"
+  }
+}
